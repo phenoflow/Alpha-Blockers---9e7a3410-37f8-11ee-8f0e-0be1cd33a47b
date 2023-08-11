@@ -1,0 +1,78 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/alpha-blockers-discovery---primary.py
+inputModule3:
+  class: File
+  path: python/alpha-blockers-shire---primary.py
+inputModule4:
+  class: File
+  path: python/alpha-blockers-doxazosin---primary.py
+inputModule5:
+  class: File
+  path: python/alpha-blockers-starter---primary.py
+inputModule6:
+  class: File
+  path: python/alpha-blockers-hypovase---primary.py
+inputModule7:
+  class: File
+  path: python/alpha-blockers-ashbourne---primary.py
+inputModule8:
+  class: File
+  path: python/alpha-blockers-400microgram---primary.py
+inputModule9:
+  class: File
+  path: python/alpha-blockers-amdipharm---primary.py
+inputModule10:
+  class: File
+  path: python/alpha-blockers-suspension---primary.py
+inputModule11:
+  class: File
+  path: python/alpha-blockers-tablet---primary.py
+inputModule12:
+  class: File
+  path: python/alpha-blockers-hyperplasia---primary.py
+inputModule13:
+  class: File
+  path: python/alpha-blockers-abbott---primary.py
+inputModule14:
+  class: File
+  path: python/alpha-blockers-ranbaxy---primary.py
+inputModule15:
+  class: File
+  path: python/alpha-blockers-indoramin---primary.py
+inputModule16:
+  class: File
+  path: python/alpha-blockers-hillcross---primary.py
+inputModule17:
+  class: File
+  path: python/alpha-blockers-terazosin---primary.py
+inputModule18:
+  class: File
+  path: python/alpha-blockers-doxadura---primary.py
+inputModule19:
+  class: File
+  path: python/alpha-blockers-cardozin---primary.py
+inputModule20:
+  class: File
+  path: python/alpha-blockers-baratol---primary.py
+inputModule21:
+  class: File
+  path: python/alpha-blockers-sandoz---primary.py
+inputModule22:
+  class: File
+  path: python/alpha-blockers-cardura---primary.py
+inputModule23:
+  class: File
+  path: python/alpha-blockers-prolonged---primary.py
+inputModule24:
+  class: File
+  path: python/alpha-blockers-actavis---primary.py
+inputModule25:
+  class: File
+  path: python/alpha-blockers-modified---primary.py
+inputModule26:
+  class: File
+  path: python/output-cases.py
